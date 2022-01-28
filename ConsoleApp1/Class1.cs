@@ -7,7 +7,7 @@ using System.Threading;
 
 namespace ConsoleApp1
 {
-    class Class1
+    class Create
     {
         const int knight_code = 99;
         public static  int[,] make_empty_board() 
